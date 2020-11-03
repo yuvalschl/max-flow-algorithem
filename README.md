@@ -2,9 +2,8 @@
 
 A c++ implementation of two algorithems for finding the max-flow in a flow network
 
-## how to run
-
-
+* Ford-flakerson algorithem.
+* A version of dijkstra algorithm.
 
 ## Getting Started
 
