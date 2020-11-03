@@ -15,7 +15,6 @@ the Maximum flow Problem. For each run the program will print the Max Flow found
 
 ## Creating your own graph
 
--
 1. Create a simple text file called input.txt and place it in the Solution's directory. 
 2. First line of the text file will state the number of Vertexes in the graph => n. 
 3. Second line will state the number of Edges in the graph => m. 
